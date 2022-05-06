@@ -1,0 +1,4 @@
+paolo rossi;alloggio;200;20 gennaio 2021
+raffaele lanzi;cena;40;27 gennaio 2021
+giovanni elisei;conferenza;100;3 febbraio 2021
+elena massi;cena;55;4 febbraio 2021
